@@ -6,3 +6,11 @@ This project about is voice assistant. It will take input from user through thei
 ### Voice Assistant
 #### Voice Assistant
 ##### Voice Assistant
+
+# Voice Assistant
+- Mohit
+- Shagun
+- Miraj
+* Mohit
+* Shagun
+* Miraj
